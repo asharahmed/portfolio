@@ -2,4 +2,4 @@
 
 ![](https://github.com/asharahmed/portfolio/blob/main/screenshot_.png)
 
-Static portfolio site made with thanks to [`portfolio-generator`](https://github.com/Johnnyboy7781/portfolio-generator).
+Static portfolio site made with [`portfolio-generator`](https://github.com/Johnnyboy7781/portfolio-generator).
